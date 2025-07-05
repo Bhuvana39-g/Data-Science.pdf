@@ -43,8 +43,9 @@ This project implements a deep learning model using TensorFlow to classify handw
 - **Test Accuracy:** ~98.9%
 - **Test Loss:** ~0.0378
 - Plots of training/validation accuracy and loss are included in the notebook.
+<img width="600" height="400" alt="Image" src="https://github.com/user-attachments/assets/9b1d0320-5105-49f9-a456-7fa27db9e52d" />
 
----
+<img width="600" height="400" alt="Image" src="https://github.com/user-attachments/assets/2d175e09-df69-4c1f-b202-b082b16452b6" />
 
 ## Tools Used
 
